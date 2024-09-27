@@ -1,0 +1,319 @@
+2024-09-26 00:49:07,976 - INFO - Starting to crawl the shared folder.
+2024-09-26 00:49:07,978 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 00:49:07,978 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 00:49:07,978 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 01:26:01,282 - INFO - Starting to crawl the shared folder.
+2024-09-26 01:26:01,283 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 01:26:01,283 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 01:26:01,283 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 01:43:16,517 - INFO - Starting to crawl the shared folder.
+2024-09-26 01:43:16,531 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 01:43:16,532 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 01:43:16,533 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:06:58,160 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:06:58,166 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:06:58,247 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:06:58,247 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:06:58,247 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:06:58,249 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:06:58,249 - INFO - Processing one file completed.
+2024-09-26 07:06:58,249 - INFO - Processing complete.
+2024-09-26 07:09:22,493 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:09:22,494 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:09:22,606 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:09:22,606 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:09:22,606 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:09:22,608 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:09:22,608 - INFO - Processing one file completed.
+2024-09-26 07:09:22,608 - INFO - Processing complete.
+2024-09-26 07:19:27,481 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:19:27,482 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:19:27,597 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:19:27,597 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:19:27,597 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:19:27,599 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:19:27,599 - INFO - Processing one file completed.
+2024-09-26 07:19:27,599 - INFO - Processing complete.
+2024-09-26 07:21:09,847 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:21:09,848 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:21:09,969 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:09,969 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:09,969 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:09,971 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:21:09,994 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 07:21:09,994 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:09,994 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:09,996 - INFO - Claim report saved: ~$Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:21:09,997 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 07:21:09,997 - INFO - Processing complete.
+2024-09-26 07:21:12,112 - INFO - Processing manually stopped.
+2024-09-26 07:21:15,890 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:21:15,891 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 07:21:15,966 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:15,966 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:15,966 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:15,968 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:21:15,970 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 07:21:15,971 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:15,971 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 07:21:15,972 - INFO - Claim report saved: ~$Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 07:21:15,973 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 07:21:15,973 - INFO - Processing complete.
+2024-09-26 09:02:44,291 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:44,295 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:44,494 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:44,494 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:44,494 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:44,498 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:02:44,502 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 09:02:44,502 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:44,503 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:44,505 - INFO - Claim report saved: ~$Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:02:44,506 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:02:44,506 - INFO - Processing complete.
+2024-09-26 09:02:45,959 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:45,959 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:46,085 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:46,085 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:46,085 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:46,087 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:02:46,087 - INFO - Processing one file completed.
+2024-09-26 09:02:46,087 - INFO - Processing complete.
+2024-09-26 09:02:47,675 - INFO - Processing manually stopped.
+2024-09-26 09:02:51,194 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:51,195 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:02:51,338 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:51,339 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:51,339 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:02:51,341 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:02:51,341 - INFO - Processing one file completed.
+2024-09-26 09:02:51,341 - INFO - Processing complete.
+2024-09-26 09:07:31,509 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:07:31,521 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:07:31,808 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:07:31,808 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:07:31,809 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:07:31,812 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:07:31,812 - INFO - Processing one file completed.
+2024-09-26 09:07:31,812 - INFO - Processing complete.
+2024-09-26 09:19:26,629 - INFO - Processing manually stopped.
+2024-09-26 09:19:34,305 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:19:34,306 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:19:34,435 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:19:34,436 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:19:34,436 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:19:34,438 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:19:34,439 - INFO - Processing one file completed.
+2024-09-26 09:19:34,439 - INFO - Processing complete.
+2024-09-26 09:24:09,566 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:24:09,567 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:24:09,657 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:24:09,657 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:24:09,657 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:24:09,660 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:24:09,660 - INFO - Processing one file completed.
+2024-09-26 09:24:09,660 - INFO - Processing complete.
+2024-09-26 09:41:50,100 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:41:50,102 - WARNING - No claims files found.
+2024-09-26 09:41:50,103 - INFO - Entering folder: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:41:50,103 - WARNING - No claims files found.
+2024-09-26 09:41:50,104 - INFO - Processing complete.
+2024-09-26 09:41:58,231 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:41:58,232 - WARNING - No claims files found.
+2024-09-26 09:41:58,233 - INFO - Entering folder: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:41:58,233 - WARNING - No claims files found.
+2024-09-26 09:41:58,234 - INFO - Processing complete.
+2024-09-26 09:43:28,937 - INFO - Processing manually stopped.
+2024-09-26 09:43:32,701 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:43:32,701 - WARNING - No claims files found.
+2024-09-26 09:43:32,703 - INFO - Entering folder: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:43:32,704 - WARNING - No claims files found.
+2024-09-26 09:43:32,705 - INFO - Processing complete.
+2024-09-26 09:52:14,858 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:52:14,862 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:52:15,077 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:52:15,244 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:52:15,244 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:52:15,244 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:52:15,247 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:52:15,247 - INFO - Processing one file completed.
+2024-09-26 09:52:15,248 - INFO - Processing complete.
+2024-09-26 09:53:35,066 - INFO - Processing manually stopped.
+2024-09-26 09:53:38,726 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:53:38,727 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:53:38,939 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,349 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,349 - INFO - Processing file: debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,349 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,352 - INFO - Claim report saved: debug_Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:53:39,435 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,849 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,850 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,850 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,852 - INFO - Claim report saved: Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:53:39,988 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 09:53:39,988 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:39,989 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:53:40,000 - INFO - Claim report saved: ~$Medical quota share treaty  3rd Qtr 2020_report.txt
+2024-09-26 09:53:40,000 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:53:40,002 - INFO - Processing complete.
+2024-09-26 09:58:51,829 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:58:51,830 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 09:58:51,936 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:51,936 - INFO - Processing file: debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:51,998 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:51,999 - INFO - Processing file: debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:52,085 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:52,085 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:52,090 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 09:58:52,090 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 09:58:52,091 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 09:58:52,202 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 09:58:52,203 - INFO - Processing complete.
+2024-09-26 10:05:14,163 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:14,164 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:15,066 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,066 - INFO - Processing file: debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,098 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,098 - INFO - Processing file: debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,214 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,214 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,218 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 10:05:15,218 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:15,219 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 10:05:15,259 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 10:05:15,260 - INFO - Processing complete.
+2024-09-26 10:05:38,878 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:38,879 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:38,912 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:38,912 - INFO - Processing file: debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:38,954 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:38,954 - INFO - Processing file: debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:39,090 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:39,090 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:39,095 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 10:05:39,095 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:39,096 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 10:05:39,143 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 10:05:39,144 - INFO - Processing complete.
+2024-09-26 10:05:44,107 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:44,108 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:05:44,142 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:44,143 - INFO - Processing file: debug_debug_Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:05:44,143 - INFO - Processing one file completed.
+2024-09-26 10:05:44,186 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 10:05:44,187 - INFO - Processing complete.
+2024-09-26 10:14:23,975 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:14:23,978 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 10:14:25,209 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:14:25,218 - ERROR - Error saving Excel data: Cannot save file into a non-existent directory: 'C:\Users\user\Documents\react_learning\KENYARE-HACKATHON\data\Finished Claims Report\debug'
+2024-09-26 10:14:25,218 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 10:14:25,219 - INFO - Processing one file completed.
+2024-09-26 10:14:25,295 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 10:14:25,296 - INFO - Processing complete.
+2024-09-26 11:25:14,046 - INFO - Processing manually stopped.
+2024-09-26 11:28:30,987 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 11:28:30,997 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 11:28:31,104 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 11:28:31,231 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:31,232 - INFO - Processing file: Claims_Report.xlsx
+2024-09-26 11:28:31,232 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 11:28:31,233 - INFO - Claim report saved: Claims_Report_report.txt
+2024-09-26 11:28:31,234 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 11:28:31,258 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 11:28:31,284 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:31,284 - INFO - Processing file: Claims_Report.xlsx
+2024-09-26 11:28:31,284 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 11:28:31,286 - INFO - Claim report saved: Claims_Report_report.txt
+2024-09-26 11:28:31,287 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\debug
+2024-09-26 11:28:31,287 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report
+2024-09-26 11:28:31,288 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug
+2024-09-26 11:28:31,312 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:31,330 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:31,330 - INFO - Processing file: debug_Claims_Report.xlsx
+2024-09-26 11:28:31,330 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:31,332 - INFO - Claim report saved: debug_Claims_Report_report.txt
+2024-09-26 11:28:31,333 - INFO - Processing complete.
+2024-09-26 11:28:34,189 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 11:28:34,190 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 11:28:34,217 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 11:28:34,242 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:34,242 - INFO - Processing file: Claims_Report.xlsx
+2024-09-26 11:28:34,243 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Claims_Report.xlsx
+2024-09-26 11:28:34,244 - INFO - Claim report saved: Claims_Report_report.txt
+2024-09-26 11:28:34,245 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 11:28:34,257 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 11:28:34,275 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:34,275 - INFO - Processing file: Claims_Report.xlsx
+2024-09-26 11:28:34,275 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 11:28:34,277 - INFO - Claim report saved: Claims_Report_report.txt
+2024-09-26 11:28:34,278 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\debug
+2024-09-26 11:28:34,278 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report
+2024-09-26 11:28:34,279 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug
+2024-09-26 11:28:34,302 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:34,321 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:34,321 - INFO - Processing file: debug_Claims_Report.xlsx
+2024-09-26 11:28:34,321 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_Claims_Report.xlsx
+2024-09-26 11:28:34,323 - INFO - Claim report saved: debug_Claims_Report_report.txt
+2024-09-26 11:28:34,342 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:34,366 - INFO - Excel data saved at C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug\debug_debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:34,367 - INFO - Processing file: debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:34,367 - INFO - Processing claim file: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug\debug_debug_Claims_Report.xlsx
+2024-09-26 11:28:34,369 - INFO - Claim report saved: debug_debug_Claims_Report_report.txt
+2024-09-26 11:28:34,370 - INFO - Processing complete.
+2024-09-26 11:37:01,213 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report
+2024-09-26 11:37:01,213 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report
+2024-09-26 11:37:01,214 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\debug
+2024-09-26 11:37:01,214 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report
+2024-09-26 11:37:01,215 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report\Finished Claims Report\debug
+2024-09-26 11:37:01,215 - WARNING - No claims files found.
+2024-09-26 11:37:01,215 - INFO - Processing complete.
+2024-09-26 11:38:31,058 - INFO - Starting to crawl directory: 
+2024-09-26 11:38:31,060 - INFO - Processing complete.
+2024-09-26 12:01:44,311 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 12:01:44,321 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 12:01:45,437 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 12:01:45,437 - INFO - Processing file: Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 12:01:45,451 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\~$Medical quota share treaty  3rd Qtr 2020.xlsx: File is not a zip file
+2024-09-26 12:01:45,452 - INFO - Processing file: ~$Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 12:01:45,452 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report
+2024-09-26 12:01:45,453 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\debug
+2024-09-26 12:01:45,453 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report
+2024-09-26 12:01:45,454 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Finished Claims Report\debug
+2024-09-26 12:01:45,514 - INFO - Report generated: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Finished Claims Report\Claims_Report.xlsx
+2024-09-26 12:01:45,515 - INFO - Processing complete.
+2024-09-26 12:24:47,699 - INFO - Starting to crawl directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 12:24:47,709 - INFO - Crawling directory: C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data
+2024-09-26 12:24:48,918 - INFO - Data extracted from C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data\Medical quota share treaty  3rd Qtr 2020.xlsx
+2024-09-26 12:24:48,923 - INFO - No data to generate report.
+2024-09-26 12:24:48,924 - INFO - Processing complete.
+2024-09-26 14:01:41,815 - INFO - Starting to process files directly
+2024-09-26 14:01:42,705 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 14:01:42,706 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 14:01:42,706 - INFO - Processing complete.
+2024-09-26 14:01:42,706 - INFO - No data to generate report.
+2024-09-26 14:04:15,388 - INFO - Starting to process files directly
+2024-09-26 14:04:16,264 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 14:04:16,265 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 14:04:16,265 - INFO - Processing complete.
+2024-09-26 14:04:16,265 - INFO - No data to generate report.
+2024-09-26 14:41:52,923 - INFO - Starting to process files directly
+2024-09-26 14:41:53,616 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 14:41:53,616 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 14:41:53,616 - INFO - Processing complete.
+2024-09-26 14:41:53,616 - INFO - No data to generate report.
+2024-09-26 14:52:10,374 - INFO - Starting to process files directly
+2024-09-26 14:52:10,377 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 14:52:10,379 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 14:52:10,379 - INFO - Processing complete.
+2024-09-26 14:52:10,379 - INFO - No data to generate report.
+2024-09-26 15:17:28,004 - INFO - Starting to process files directly
+2024-09-26 15:17:29,197 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 15:17:29,198 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 15:17:29,198 - INFO - Processing complete.
+2024-09-26 15:17:29,198 - INFO - No data to generate report.
+2024-09-26 15:17:56,317 - INFO - Starting to process files directly
+2024-09-26 15:17:56,318 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data/Finished Claims Report'
+2024-09-26 15:17:56,319 - ERROR - Error reading C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data: [Errno 13] Permission denied: 'C:/Users/user/Documents/react_learning/KENYARE-HACKATHON/data'
+2024-09-26 15:17:56,319 - INFO - Processing complete.
+2024-09-26 15:17:56,319 - INFO - No data to generate report.
